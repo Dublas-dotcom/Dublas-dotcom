@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding and bu
 
 ## 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [LinkedIn]((https://www.linkedin.com/in/mthokozisi-carvin-285bb5203/))
 - [Twitter](https://twitter.com/your-profile)
 - [Personal Website/Blog](https://your-website.com)
 
