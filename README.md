@@ -50,11 +50,10 @@ I specialize in:
 - 🐧 Linux CLI, Shell Scripting
 
 ---
+## 📫 Let's Connect
 
-## 🤝 Let's Connect
-- GitHub : [https://dublas-dotcom.github.io/MyPortfolio/]
-- LinkedIn: [inkedin.com/in/mthokozisi-carvin-285bb5203/]
-- Email: [(mthokozisicarvin@gmail.com)]
+- [LinkedIn](https://www.linkedin.com/in/mthokozisi-carvin-285bb5203/)
+- [Personal Website/Blog](https://dublas-dotcom.github.io/MyPortfolio/))
 
 ---
 
@@ -68,11 +67,6 @@ I specialize in:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dublas-dotcom&layout=compact&theme=radical)
 
-## 📫 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/mthokozisi-carvin-285bb5203/)
-- [Twitter](https://twitter.com/your-profile)
-- [Personal Website/Blog](https://your-website.com)
 
 ## 📝 Latest Blog Posts
 
