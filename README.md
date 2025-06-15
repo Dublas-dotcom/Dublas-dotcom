@@ -3,15 +3,62 @@
 Welcome to my GitHub profile! I'm a passionate developer who loves coding and building amazing projects. Here's a little bit about me:
 
 ## 🚀 About Me
+# 🚀 Full-Stack Developer | Node.js, MongoDB, C#/.NET
 
-- 🔭 I’m currently working on **[Your Current Project]**
-- 🌱 I’m currently learning **[What You're Learning]**
-- 👯 I’m looking to collaborate on **[Projects You Want to Collaborate On]**
-- 🤔 I’m looking for help with **[What You Need Help With]**
-- 💬 Ask me about **[Topics You Can Help With]**
-- 📫 How to reach me: **[Your Contact Information]**
-- 😄 Pronouns: **[Your Pronouns]**
-- ⚡ Fun fact: **[A Fun Fact About You]**
+Hey there! I’m a Full-Stack Developer focused on building modern, scalable applications using **Node.js**, **Express**, and **MongoDB** on the backend — with strong skills in **C#** and **.NET** for enterprise-level systems and integrations.
+
+## 💼 What I Do
+
+I specialize in:
+- ✅ RESTful APIs with Node.js & Express
+- ✅ MongoDB/Mongoose for NoSQL data modeling
+- ✅ C# & .NET Core for backend systems and desktop applications
+- ✅ Frontend integration with React, Tailwind CSS, and Next.js
+- ✅ Authentication, JWT, OAuth2, and Role-based Access
+- ✅ Cloud deployment with Vercel, Render, and Railway
+
+---
+
+## 🔧 Tech Stack
+
+### 🔙 Backend
+- **Node.js**, **Express**
+- **MongoDB**, **Mongoose**
+- **C#**, **.NET Core**, **ASP.NET**
+- **RESTful APIs**, **CRUD Operations**
+- **JWT Auth**, **Middleware**, **Validation**
+
+### 🌐 Frontend
+- **React**, **Next.js**
+- **Tailwind CSS**, **Lucide Icons**
+- **Axios**, **React Query**
+
+### ☁️ DevOps & Tools
+- **Git**, **GitHub**
+- **Postman**, **netlify**
+- **Vercel**, **Render**, 
+- **Docker** (learning)
+- **Swagger** for API documentation
+
+---
+
+
+## 🧠 Learning Now
+- 🐳 Docker & Containerization
+- ☁️ AWS (EC2, S3, Lambda basics)
+- 🧵 Kafka (Message Queues)
+- 🐧 Linux CLI, Shell Scripting
+
+---
+
+## 🤝 Let's Connect
+- GitHub : [https://dublas-dotcom.github.io/MyPortfolio/]
+- LinkedIn: [inkedin.com/in/mthokozisi-carvin-285bb5203/]
+- Email: [(mthokozisicarvin@gmail.com)]
+
+---
+
+> ⚡ *"Code is not just syntax — it’s structure, strategy, and storytelling."*
 
 ## 📊 GitHub Stats
 
